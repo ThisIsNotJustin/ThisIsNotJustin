@@ -8,8 +8,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
@@ -46,7 +44,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThisIsNotJustin/ThisIsNotJustin/output/snake.svg" alt="Snake animation" />
 
 ###
