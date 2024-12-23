@@ -1,4 +1,5 @@
-<h2 align="left">Hello! <br>My name is Justin, and I'm a Software Engineer,<br>from Nashville, Tennessee</h2>
+<h1 align="center">Hi 👋, I'm Justin Coleman</h1>
+<h3 align="center">I'm a Software Engineer<br>from Nashville, Tennessee</h2>
 
 ###
 
